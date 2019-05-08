@@ -1,0 +1,26 @@
+{
+  "name": "front-end-handbook-2019",
+  "description": "This file file serves as your book's preface, a great place to describe your book's content and ideas.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Type-Star/front-end-handbook-2019.git"
+  },
+  "author": "hezhengjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Type-Star/front-end-handbook-2019/issues"
+  },
+  "homepage": "https://github.com/Type-Star/front-end-handbook-2019#readme",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
