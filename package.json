@@ -8,7 +8,9 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "now-dev": "vuepress dev docs --port=$PORT",
+    "now-build": "npm run build && mv docs/.vuepress/dist dist"
   },
   "repository": {
     "type": "git",
