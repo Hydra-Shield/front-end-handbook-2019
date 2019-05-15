@@ -14,7 +14,9 @@ module.exports = {
               title: '回顾2018，展望未来 ',
               collapsable: false,
               children: [
-                '/chapter0/chapter1'
+                '/chapter0/chapter1',
+                '/chapter0/chapter2',
+                '/chapter0/chapter3'
               ]
             }
           ]
