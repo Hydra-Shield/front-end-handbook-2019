@@ -15,8 +15,22 @@ module.exports = {
               collapsable: false,
               children: [
                 '/chapter0/chapter1',
-                '/chapter0/chapter2',
-                '/chapter0/chapter3'
+                '/chapter0/chapter2'
+              ]
+            },
+            {
+              title: '什么是前端开发者',
+              collapsable: false,
+              children: [
+                '/chapter1/chapter1'
+              ]
+            },
+            {
+              title: '前端开发实践：概述',
+              collapsable: false,
+              children: [
+                '/chapter2/chapter0',
+                '/chapter2/chapter1'
               ]
             }
           ]
