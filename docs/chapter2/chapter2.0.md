@@ -7,7 +7,7 @@
 
 2.2 [前端职称](/chapter2/chapter2.2.html)
 
-2.3 [前端开发者必备的Web技能]((/chapter2/chapter2.3.html))
+2.3 [前端开发者必备的Web技能](/chapter2/chapter2.3.html)
 
 2.4 潜在的前端开发者技能
 
