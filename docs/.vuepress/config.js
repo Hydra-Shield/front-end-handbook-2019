@@ -32,7 +32,8 @@ module.exports = {
               children: [
                 '/chapter2/chapter2.0',
                 '/chapter2/chapter2.1',
-                '/chapter2/chapter2.2'
+                '/chapter2/chapter2.2',
+                '/chapter2/chapter2.3'
 
               ]
             }
