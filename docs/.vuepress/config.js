@@ -43,7 +43,21 @@ module.exports = {
                 '/chapter2/chapter2.10'
 
               ]
-            }
+            },
+            {
+              title: '学习前端开发：自学的资源/建议',
+              collapsable: false,
+              children: [
+                '/chapter3/chapter3.0',
+                '/chapter3/chapter3.1',
+                '/chapter3/chapter3.2',
+                '/chapter3/chapter3.3',
+                '/chapter3/chapter3.4',
+                '/chapter3/chapter3.5'
+
+              ]
+            },
+            
           ]
       }
   }
