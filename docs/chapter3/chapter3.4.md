@@ -1,8 +1,8 @@
 # 学习HTTP网络协议（包括CORS和WebSockets）
 
-> **HTTP** —— 超文本传输协议（HTTP）是一种用于分布式、协作式和超媒体信息系统的应用层协议[1]。HTTP是万维网的数据通信的基础。
+> **HTTP** —— 超文本传输协议（HTTP）是一种用于分布式、协作式和超媒体信息系统的应用层协议。HTTP是万维网的数据通信的基础。<p align="right"> ----— [Wikipedia](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)  </p>
 
-                                        <p align="right"> ----— [Wikipedia](hhttps://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)  </p>
+
 
 ### HTTP规范
 
